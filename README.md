@@ -1,7 +1,7 @@
 # Przemysław Pęczkowski
 **Senior DevOps Engineer | AVP**
 Krakow, Poland | (+48) xxx-xxx-xxx
-[peanek@gmail.com](mailto:peanek@gmail.com) | [github.com/peanek]
+[work@ppeczkowski.pl](mailto:work@ppeczkowski.pl) | [github.com/peanek]
 
 ---
 
