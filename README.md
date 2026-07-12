@@ -6,45 +6,42 @@ Krakow, Poland | (+48) xxx-xxx-xxx
 ---
 
 ## 💻 Professional Profile
-Assistant Vice President and Senior DevOps Engineer with over 15 years of experience in IT infrastructure, security, and automation. Currently specializing in Credit Risk Calculation systems, managing complex CI/CD pipelines, and infrastructure-as-code (IaC) within highly regulated financial environments.
+Assistant Vice President and Senior DevOps Engineer with over 15 years of experience in IT infrastructure, security, and automation. Currently specializing in Credit Risk Calculation systems, managing complex CI/CD pipelines, Zero Trust security models, and Infrastructure-as-Code (IaC) within highly regulated financial environments. Proven track record in bridging development and operations to ensure scalable, secure, and compliant virtualized and cloud architectures.
 
 ## 🛠️ Technical Skills
-* **DevOps & Orchestration:** GitLab CI, TeamCity, MSBuild Automation (high), Jenkins, Chef (moderate)
-* **Security & Secret Management:** HashiCorp Vault (CSM), CyberArk, Credential Stores
-* **Monitoring & Observability:** Grafana, Zabbix, Prometheus
-* **Infrastructure & Cloud:** AWS, OpenStack, Windows Server, Linux (Debian/Ubuntu/RHEL)
+* **Configuration as Code (CaC) & (IaC) & Infrastructure:** Declarative JSON Service Configurations, Chef, Terraform (Basic), AWS, OpenStack, Linux, Windows Server
+* **Security:** Zero Trust Architecture, HashiCorp Vault (CSM), CyberArk, Credential Stores, Financial Risk Compliance, Vulnerability Mitigation
+* **CI/CD & GitOps:** GitLab CI, TeamCity, MSBuild Automation, Jenkins, Chef
+* **Monitoring & Observability:** Grafana, Prometheus, Zabbix, System Optimization
 * **Scripting & Automation:** Bash, PowerShell, Python, T-SQL
-* **Methodologies:** Scrum, Agile, ITIL, Financial Risk Compliance
+* **Methodologies:** Scrum, Agile, ITIL, GitOps, Cost Optimization in Virtual Platforms
 
 ## 💼 Work Experience
 
 ### AVP - Senior DevOps Engineer | Barclays
 *Prague, Czechia (Remote) | Sept 2020 – Present*
-* **Credit Risk Calculation Project:** Leading DevOps initiatives for critical financial risk platforms using Scrum and Agile methodologies.
-* **CI/CD Automation:** Engineered and maintained complex pipelines using GitLab, TeamCity, and internal CD solutions to streamline software delivery.
-* **Infrastructure as Code:** Leveraged Chef for configuration management and infrastructure automation across diverse environments.
-* **Deployment Engineering:** Developed and managed specialized deployment workflows using custom MsBuild applications.
-* **Security & Compliance:** Implemented robust secret management and credential storage solutions using HashiCorp (CSM).
-* **Monitoring:** Designed comprehensive Grafana dashboards to monitor system health and calculation performance.
-* **Process Leadership:** Created reusable templates and scripts to standardize DevOps practices across the global team.
+* **Credit Risk Calculation Project:** Leading DevOps initiatives for critical financial risk platforms, ensuring strict regulatory compliance using Scrum/Agile methodologies.
+* **Infrastructure as Code:** Leveraged Terraform and Chef for reproducible configuration management and infrastructure automation across diverse environments, focusing heavily on on-site virtual solutions.
+* **CI/CD Automation:** Engineered and maintained complex GitOps pipelines using GitLab, TeamCity, and internal CD solutions to streamline secure software delivery.
+* **Security & Zero Trust:** Implemented robust secret management, credential storage, and Zero Trust principles utilizing HashiCorp Vault (CSM).
+* **Monitoring & Observability:** Designed comprehensive Grafana dashboards to proactively monitor system health, calculation performance, and mitigate downtime.
+* **Process Leadership:** Created reusable automation templates to standardize DevOps and security practices across the global engineering team.
 
 ### DevOps Engineer | IP Fabric
 *Prague, Czechia | Jan 2020 – Sept 2020*
-* Managed global server and network infrastructure using AWS and OpenStack.
-* Automated system monitoring via Zabbix and streamlined releases using GitLab.
-* Collaborated with developers to manage code and image releases in a hybrid OS environment (Linux/Windows).
+* Managed global server and network infrastructure utilizing OpenStack and AWS.
+* Automated system monitoring via Zabbix and streamlined release cadences using GitLab CI.
+* Collaborated with cross-functional teams to manage code and image releases in a hybrid Linux/Windows environment.
 
 ### Technical Support Engineer | Fortinet
 *Prague, Czechia | May 2019 – Dec 2019*
-* Provided Tier 2/3 technical investigation and analysis regarding Fortinet products for the EMEA region.
-* Collaborated with R&D on product issue identification and quality assurance.
-* Troubleshooted complex network environments including VPN SSL/IPSec, Routing, DNS, and DHCP.
+* Provided Tier 2/3 technical investigation and security analysis for Fortinet enterprise products across the EMEA region.
+* Troubleshooted complex network and security environments (VPN SSL/IPSec, Routing, DNS).
 
 ### IT Support Engineer | Bitron Poland Sp. z o.o.
 *Sosnowiec, Poland | April 2013 – May 2019*
-* Managed Active Directory for 3,000+ objects and dozens of Windows Servers.
-* Administered a centralized MES system for 15+ industrial AOI/SPI machines.
-* Acted as Deputy Manager for the 3-person IT department team.
+* Managed Active Directory (3,000+ objects) and Windows Server infrastructure.
+* Administered centralized MES systems for industrial environments and acted as Deputy IT Manager.
 
 ---
 
