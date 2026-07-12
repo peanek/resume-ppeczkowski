@@ -9,7 +9,7 @@ Krakow, Poland | (+48) xxx-xxx-xxx
 Assistant Vice President and Senior DevOps Engineer with over 15 years of experience in IT infrastructure, security, and automation. Currently specializing in Credit Risk Calculation systems, managing complex CI/CD pipelines, Zero Trust security models, and Infrastructure-as-Code (IaC) within highly regulated financial environments. Proven track record in bridging development and operations to ensure scalable, secure, and compliant virtualized and cloud architectures.
 
 ## 🛠️ Technical Skills
-* **Infrastructure as Code (IaC) & Cloud:** Terraform (Core), AWS (Intermediate), OpenStack, Linux (Debian/Ubuntu/RHEL), Windows Server, Virtual Platforms
+* **Configuration as Code (CaC) & (IaC) & Infrastructure:** Declarative JSON Service Configurations, Chef, Terraform (Basic), AWS, OpenStack, Linux, Windows Server
 * **Security:** Zero Trust Architecture, HashiCorp Vault (CSM), CyberArk, Credential Stores, Financial Risk Compliance, Vulnerability Mitigation
 * **CI/CD & GitOps:** GitLab CI, TeamCity, MSBuild Automation, Jenkins, Chef
 * **Monitoring & Observability:** Grafana, Prometheus, Zabbix, System Optimization
