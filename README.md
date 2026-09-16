@@ -1,24 +1,24 @@
 # Przemysław Pęczkowski
 **Senior DevOps Engineer | AVP**
 Krakow, Poland | (+48) xxx-xxx-xxx
-[work@ppeczkowski.pl](mailto:work@ppeczkowski.pl) | [github.com/peanek]
+[work@ppeczkowski.pl](mailto:work@ppeczkowski.pl) | [[github.com/peanek](https://github.com/peanek)]
 
 ---
 
 ## 💻 Professional Profile
-Assistant Vice President and Senior DevOps Engineer with over 15 years of experience in IT infrastructure, security, and automation. Currently specializing in Credit Risk Calculation systems, managing complex CI/CD pipelines, Zero Trust security models, and Infrastructure-as-Code (IaC) within highly regulated financial environments. Proven track record in bridging development and operations to ensure scalable, secure, and compliant virtualized and cloud architectures.
+Senior DevOps & Platform Engineer with over 15 years of experience in IT infrastructure, DevSecOps, and automation. Currently serving as Assistant Vice President in a highly regulated financial environment (FinTech/Banking). Proven expertise in designing GitOps CI/CD pipelines, implementing Zero Trust security models (HashiCorp Vault, CyberArk), and driving Infrastructure-as-Code (IaC) initiatives using Terraform and Chef. Adept at bridging development and operations to deliver secure, scalable, and compliant Hybrid Cloud and on-premise architectures.
 
 ## 🛠️ Technical Skills
-* **Configuration as Code (CaC) & (IaC) & Infrastructure:** Declarative JSON Service Configurations, Chef, Terraform (Basic), AWS, OpenStack, Linux, Windows Server
-* **Security:** Zero Trust Architecture, HashiCorp Vault (CSM), CyberArk, Credential Stores, Financial Risk Compliance, Vulnerability Mitigation
-* **CI/CD & GitOps:** GitLab CI, TeamCity, MSBuild Automation, Jenkins, Chef
+* **Configuration as Code (CaC) & (IaC) & Infrastructure:** Automated provisioning and configuration management for 200+ on-premise and virtualized servers using Terraform and Chef. Declarative JSON Service Configurations, AWS, OpenStack, Linux, Windows Server
+* **DevSecOps & Identity (IAM):** Engineered a Zero Trust security model and centralized secret management for 30+ critical financial applications utilizing HashiCorp Vault and CyberArk, ensuring strict regulatory compliance.
+* **CI/CD & GitOps:** Designed and maintained highly available deployment pipelines using GitLab CI and TeamCity, supporting a global engineering team of 200+ developers.
 * **Monitoring & Observability:** Grafana, Prometheus, Zabbix, System Optimization
 * **Scripting & Automation:** Bash, PowerShell, Python, T-SQL
 * **Methodologies:** Scrum, Agile, ITIL, GitOps, Cost Optimization in Virtual Platforms
 
 ## 💼 Work Experience
 
-### AVP - Senior DevOps Engineer | Barclays
+### Senior DevOps Engineer (Assistant Vice President) | Barclays
 *Prague, Czechia (Remote) | Sept 2020 – Present*
 * **Credit Risk Calculation Project:** Leading DevOps initiatives for critical financial risk platforms, ensuring strict regulatory compliance using Scrum/Agile methodologies.
 * **Infrastructure as Code:** Leveraged Terraform and Chef for reproducible configuration management and infrastructure automation across diverse environments, focusing heavily on on-site virtual solutions.
