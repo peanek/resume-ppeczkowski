@@ -6,7 +6,8 @@ Krakow, Poland | (+48) xxx-xxx-xxx
 ---
 
 ## 💻 Professional Profile
-Senior DevOps & Platform Engineer with over 15 years of experience in IT infrastructure, DevSecOps, and automation. Currently serving as Assistant Vice President in a highly regulated financial environment (FinTech/Banking). Proven expertise in designing GitOps CI/CD pipelines, implementing Zero Trust security models (HashiCorp Vault, CyberArk), and driving Infrastructure-as-Code (IaC) initiatives using Terraform and Chef. Adept at bridging development and operations to deliver secure, scalable, and compliant Hybrid Cloud and on-premise architectures.
+Senior DevOps & Platform Engineer with over 15 years of experience in IT infrastructure, DevSecOps, and automation. Currently serving as Assistant Vice President in a highly regulated financial environment (FinTech/Banking). Proven expertise in designing GitOps CI/CD pipelines, implementing Zero Trust security models (HashiCorp Vault, CyberArk), and driving Infrastructure-as-Code (IaC) initiatives using Terraform and Chef.
+Recognized for strong organizational capabilities and highly developed interpersonal skills, effectively driving cross-functional initiatives, mentoring engineering teams, and aligning technical solutions with business objectives.
 
 ## 🛠️ Technical Skills
 * **Configuration as Code (CaC) & (IaC) & Infrastructure:** Automated provisioning and configuration management for 200+ on-premise and virtualized servers using Terraform and Chef. Declarative JSON Service Configurations, AWS, OpenStack, Linux, Windows Server
@@ -15,6 +16,7 @@ Senior DevOps & Platform Engineer with over 15 years of experience in IT infrast
 * **Monitoring & Observability:** Grafana, Prometheus, Zabbix, System Optimization
 * **Scripting & Automation:** Bash, PowerShell, Python, T-SQL
 * **Methodologies:** Scrum, Agile, ITIL, GitOps, Cost Optimization in Virtual Platforms
+* **Leadership & Soft Skills:** Cross-functional collaboration, Technical Mentoring, Stakeholder Communication, Complex Project Organization, Process Optimization
 
 ## 💼 Work Experience
 

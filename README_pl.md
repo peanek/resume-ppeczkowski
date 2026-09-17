@@ -6,7 +6,8 @@ Kraków, Polska | (+48) xxx-xxx-xxx
 ---
 
 ## 💻 Profil zawodowy
-Starszy Inżynier DevOps i Platform Engineer z ponad 15-letnim doświadczeniem w infrastrukturze IT, DevSecOps i automatyzacji. Obecnie pełnię funkcję Assistant Vice President (AVP) w rygorystycznie regulowanym środowisku finansowym (FinTech/Bankowość). Posiadam udokumentowane doświadczenie w projektowaniu potoków CI/CD (GitOps), wdrażaniu modeli bezpieczeństwa Zero Trust (HashiCorp Vault, CyberArk) oraz rozwijaniu inicjatyw Infrastructure-as-Code (IaC) z użyciem Terraform i Chef. Biegły w łączeniu środowisk deweloperskich i operacyjnych w celu dostarczania bezpiecznych, skalowalnych i zgodnych z regulacjami architektur hybrydowych oraz on-premise.
+Starszy Inżynier DevOps i Platform Engineer z ponad 15-letnim doświadczeniem w infrastrukturze IT, DevSecOps i automatyzacji. Obecnie pełnię funkcję Assistant Vice President (AVP) w rygorystycznie regulowanym środowisku finansowym (FinTech/Bankowość). Posiadam udokumentowane doświadczenie w projektowaniu potoków CI/CD (GitOps), wdrażaniu modeli bezpieczeństwa Zero Trust (HashiCorp Vault, CyberArk) oraz rozwijaniu inicjatyw Infrastructure-as-Code (IaC) z użyciem Terraform i Chef. 
+Ceniony za wysoko rozwinięte umiejętności interpersonalne i organizacyjne, skutecznie prowadzący inicjatywy międzyzespołowe, mentorujący inżynierów i dostosowujący rozwiązania techniczne do celów biznesowych.
 
 ## 🛠️ Umiejętności techniczne
 * **Configuration as Code (CaC) & (IaC) & Infrastructure:** Automatyzacja wdrażania i zarządzania konfiguracją dla ponad 200 serwerów on-premise i wirtualnych przy użyciu Terraform i Chef. Deklaratywne konfiguracje usług w JSON, AWS, OpenStack, Linux (Debian/Ubuntu/RHEL), Windows Server.
@@ -15,6 +16,7 @@ Starszy Inżynier DevOps i Platform Engineer z ponad 15-letnim doświadczeniem w
 * **Monitoring & Observability:** Grafana, Prometheus, Zabbix, optymalizacja wydajności systemów.
 * **Skryptowanie & Automatyzacja:** Bash, PowerShell, Python, T-SQL (MS SQL Server).
 * **Metodologie:** Scrum, Agile, ITIL, GitOps, optymalizacja kosztów platform wirtualnych.
+* **Umiejętności miękkie i przywództwo:** Współpraca międzyzespołowa (cross-functional), mentoring techniczny, komunikacja z interesariuszami, organizacja złożonych projektów, optymalizacja procesów.
 
 ## 💼 Doświadczenie zawodowe
 
